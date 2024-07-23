@@ -6,12 +6,6 @@
    border-top-left-radius: 12px;
    border-top-right-radius: 12px;
 }
-.team-img{
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    height: 500px;
-}
 .team-content{
     margin: 0;
     padding: 0;
@@ -19,6 +13,8 @@
     flex-direction: column;
     background-color: rgba(245, 245, 250, 1);
     margin-bottom: 30px;
+    overflow: hidden;
+    height: 500px;
 }
 .team-cont{
     display: flex;
