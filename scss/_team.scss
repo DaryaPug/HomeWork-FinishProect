@@ -49,6 +49,7 @@
     flex-direction: row; 
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
+   height: 528px;
 }
 .man{
     height: 528px;
@@ -66,7 +67,9 @@
 .man{
         height: 344px;  
 }  
-
+.team-content{
+    height: 344px;
+}
 .team-text{
 font-size: 38px;
 }
@@ -81,6 +84,9 @@ font-size: 38px;
 .team-img{
     height: 298px;
     width: 26%;
+}
+   .team-content{
+    height: 298px;
 }
 }
 
